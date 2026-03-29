@@ -20,14 +20,4 @@
 - VS Code
 
 ## Author
-[Your Name] | [Your University] | [Year]
-```
-
----
-
-**So right now just do these 3 things:**
-```
-1. Create the folder structure above in VS Code
-2. Paste your Adenta zoomed map code into 
-   GEE_Scripts/02_adenta_zoomed_map.js
-3. Save with Ctrl + S
+[Addo Emmanuel] | [University of Ghana] | [2026]
